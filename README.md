@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukatchubabria&label=Profile%20views&color=ff0000&style=flat" alt="lukatchubabria" /> </p>
 
-<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox"><img src="https://github-profile-trophy.vercel.app/?username=lukatchubabria" alt="lukatchubabria" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukatchubabria&theme=gruvbox" alt="lukatchubabria" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tchubabrialuka" target="blank"><img src="https://img.shields.io/twitter/follow/tchubabrialuka?logo=twitter&style=for-the-badge" alt="tchubabrialuka" /></a> </p>
 
