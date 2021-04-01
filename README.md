@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukatchubabria&theme=gruvbox" alt="lukatchubabria" /></a> </p>
 
-<img src="./Image/3.gif"></img>
+<img src="./Image/3.gif" style="max-width:100%;width: 100%;height: 300px;border-radius: 15px;"></img>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
