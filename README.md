@@ -3,6 +3,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukatchubabria&theme=gruvbox" alt="lukatchubabria" /></a> </p>
 
+<iframe src="https://giphy.com/embed/hpF9R9M1PHN5e5liSx" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/https://codepen.io/luka-tchubabria" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/luka-tchubabria" height="30" width="40" /></a>
