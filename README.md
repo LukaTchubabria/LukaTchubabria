@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukatchubabria&theme=gruvbox" alt="lukatchubabria" /></a> </p>
 
-<img src="./Image/3.gif" style="max-width:100%;width: 100%;height: 300px;border-radius: 15px;"></img>
+<img align="center" src="./Image/3.gif"></img>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -25,5 +25,3 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukatchubabria&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=161b22&locale=en" alt="lukatchubabria" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukatchubabria&theme=dark" alt="lukatchubabria" /></p>
-
-<p align="left"> <a href="https://twitter.com/tchubabrialuka" target="blank"><img src="https://img.shields.io/twitter/follow/tchubabrialuka?logo=twitter&style=for-the-badge" alt="tchubabrialuka" /></a> </p>
