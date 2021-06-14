@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Luka Tchubabria</h1>
 <h3 align="center">Web Designer & Developer</h3>
 
-```js
-
-
+```javascript
+const Luka = {
+    age: 19
+    technologies: {
+        frontEnd: {
+            ...
+        },
+        backEnd: {
+            ...
+        }        
+    }
+};
 ```
 
 
