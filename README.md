@@ -1,4 +1,4 @@
-<h1 align="">Hi 👋, I'm Luka Tchubabria</h1>
+<h1 align="center">Hi 👋, I'm Luka Tchubabria</h1>
 <h3 align="center">Web Designer & Developer</h3>
 
 ```js
@@ -8,12 +8,6 @@
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukatchubabria&theme=gruvbox" alt="lukatchubabria" /></a> </p>
-
-<p align="center">
-    <a>
-        <img align="center" src="./Image/3.gif"></img>
-    </a>
-</p>
 
 ## 🙋‍♂️ Connect with me
 <p align="left">
@@ -32,7 +26,11 @@
 	</a>
 </p>
 <br>
-
+<p align="center">
+    <a>
+        <img align="center" src="./Image/3.gif"></img>
+    </a>
+</p>
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
