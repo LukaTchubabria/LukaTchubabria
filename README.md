@@ -25,7 +25,7 @@
 	  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 	</a>
 </p>
-<br>
+<br><br>
 <p align="center">
     <a>
         <img align="center" src="./Image/3.gif"></img>
