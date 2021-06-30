@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Luka Tchubabria</h1>
 <h3 align="center">Web Designer & Developer</h3>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukatchubabria&theme=gruvbox" alt="lukatchubabria" /></a> </p>
+
+
 ```javascript
 const Luka = {
-    aboutMe: "bla bla bla";
+    aboutMe: "bla bla bla",
     hobby: chess,
     age: 19,
     technologies: {
@@ -12,8 +15,6 @@ const Luka = {
 };
 ```
 
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukatchubabria&theme=gruvbox" alt="lukatchubabria" /></a> </p>
 <!--
 ## 🙋‍♂️ Connect with me
 <p align="center">
