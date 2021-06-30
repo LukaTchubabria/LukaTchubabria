@@ -13,8 +13,8 @@ const Luka = {
 ```
 
 
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukatchubabria&theme=gruvbox" alt="lukatchubabria" /></a> </p>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukatchubabria&theme=gruvbox" alt="lukatchubabria" /></a> </p>
+<!--
 ## 🙋‍♂️ Connect with me
 <p align="center">
 	<a href="#"><img align="left" alt="akd's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a><a href="#"><img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" /></a><a href=""><img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
@@ -47,7 +47,6 @@ const Luka = {
 ### Other
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> -->
 # 📊 Github stats
-https://github.com/anuraghazra/github-readme-stats
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukatchubabria&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=161b22&locale=en&layout=compact" alt="lukatchubabria" /></p>
