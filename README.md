@@ -3,13 +3,12 @@
 
 ```javascript
 const Luka = {
+    aboutMe: "bla bla bla";
+    hobby: chess,
     age: 19,
     technologies: {
         frontEnd: [HTML, CSS, SCSS, SASS, JS, Jquery, Gulp],
-        backEnd: {
-            [Python, PHP]
-        }        
-    }
+        backEnd: [Python, PHP],
 };
 ```
 
