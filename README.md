@@ -3,20 +3,18 @@
 
 ```javascript
 const Luka = {
-    age: 19
+    age: 19,
     technologies: {
-        frontEnd: {
-            ...
-        },
+        frontEnd: [HTML, CSS, SCSS, SASS, JS, Jquery, Gulp],
         backEnd: {
-            ...
+            [Python, PHP]
         }        
     }
 };
 ```
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukatchubabria&theme=gruvbox" alt="lukatchubabria" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukatchubabria&theme=gruvbox" alt="lukatchubabria" /></a> </p>
 
 ## 🙋‍♂️ Connect with me
 <p align="center">
@@ -48,7 +46,7 @@ const Luka = {
 ### UI/UX
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 ### Other
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+ <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> -->
 # 📊 Github stats
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
