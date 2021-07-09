@@ -6,7 +6,7 @@
 
 ```javascript
 const Luka = {
-    aboutMe: "ERRR 404",
+    aboutMe: "ERROR 404",
     hobby: "chess",
     age: 19,
     technologies: {
