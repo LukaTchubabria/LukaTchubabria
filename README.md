@@ -6,12 +6,12 @@
 
 ```javascript
 const Luka = {
-    aboutMe: "bla bla bla",
-    hobby: chess,
+    aboutMe: "ERRR 404",
+    hobby: "chess",
     age: 19,
     technologies: {
-        frontEnd: [HTML, CSS, SCSS, SASS, JS, Jquery, Gulp],
-        backEnd: [Python, PHP],
+        frontEnd: ["HTML", "CSS", "SCSS", "SASS", "JS", "Jquery", "Gulp"],
+        backEnd: ["Python", "PHP"],
 };
 ```
 
