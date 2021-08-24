@@ -11,7 +11,7 @@ const Luka = {
     age: 19,
     technologies: {
         frontEnd: ["HTML", "CSS", "SCSS", "SASS", "JS", "Jquery", "Gulp"],
-        backEnd: ["Python", "PHP"],
+        backEnd: ["Python"],
 };
 ```
 
