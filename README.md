@@ -8,9 +8,9 @@
 const Luka = {
     aboutMe: "ERROR 404",
     hobby: "chess",
-    age: 19,
+    age: 20,
     technologies: {
-        frontEnd: ["HTML", "CSS", "SCSS", "SASS", "JS", "Jquery", "Gulp"],
+        frontEnd: ["React", "Next", HTML", "CSS", "SCSS", "SASS", "JS", "Jquery", "Gulp"],
         backEnd: ["Python"]
     }
 };
