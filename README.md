@@ -10,7 +10,7 @@ const Luka = {
     hobby: "chess",
     age: 20,
     technologies: {
-        frontEnd: ["React", "Next", HTML", "CSS", "SCSS", "SASS", "JS", "Jquery", "Gulp"],
+        frontEnd: ["React", "Next", "HTML", "CSS", "SCSS", "SASS", "JS", "Jquery", "Gulp"],
         backEnd: ["Python"]
     }
 };
