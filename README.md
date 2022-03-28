@@ -7,7 +7,7 @@
 ```javascript
 const Luka = {
     aboutMe: "ERROR 404",
-    hobby: "chess",
+    hobby: "Chess",
     age: 20,
     technologies: {
         frontEnd: ["React", "Next", "HTML", "CSS", "SCSS", "SASS", "JS", "Jquery", "Gulp"],
